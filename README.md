@@ -1,6 +1,10 @@
 # miscellaneous-project-ideas
 Miscellaneous Project Ideas
 
+## Implement Johnny Decimal system
+
+[Johnyy Decimal](https://johnnydecimal.com/concepts/managing-email/)
+
 ## Learn Pharo
 
 Pharo is a programming language inspired by Smalltalk.
