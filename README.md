@@ -3,7 +3,7 @@ Miscellaneous Project Ideas
 
 ## Implement Johnny Decimal system
 
-[Johnyy Decimal](https://johnnydecimal.com/concepts/managing-email/)
+[Johnny Decimal](https://johnnydecimal.com/concepts/managing-email/)
 
 ## Learn Pharo
 
